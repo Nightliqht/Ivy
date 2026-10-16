@@ -1,2 +1,2 @@
 # Ivy
-project ivy
+lorem ipsum smthn smthn
