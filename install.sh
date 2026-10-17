@@ -1,1 +1,1 @@
-g++ src/main.cpp -o bin/ivy -O3 && ./bin/ivy
+g++ src/main.cpp dependencies/glad/src/glad.c -I dependencies -O3 -o ivy -lGL -lglfw
