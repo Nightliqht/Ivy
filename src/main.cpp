@@ -35,7 +35,7 @@ int main(void)
     {
         /* Render here */
         glClear(GL_COLOR_BUFFER_BIT);
-        glClearColor(1.0f, 1.0f, 1.0f, 1.0f);
+        glClearColor(0.5f, 1.0f, 0.6f, 1.0f);
 
         /* Swap front and back buffers */
         glfwSwapBuffers(window);
