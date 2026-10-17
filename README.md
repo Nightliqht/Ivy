@@ -1,2 +1,6 @@
 # Ivy
-lorem ipsum smthn smthn
+
+
+# Manual installation
+- dependencies
+  - c++ std library
